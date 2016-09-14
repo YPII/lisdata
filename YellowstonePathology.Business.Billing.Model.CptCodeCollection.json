@@ -19,7 +19,7 @@
       "MedicareQuantityLimit": 0,
       "SVHCDMCode": null,
       "SVHCDMDescription": null
-      "testing": "helloasdfsadfasdfasdf"
+      "testing": "11111111"
     },
     {
       "$type": "YellowstonePathology.Business.Billing.Model.PQRSCodeDefinitions.PQRS3126F, UserInterface",
